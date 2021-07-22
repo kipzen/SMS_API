@@ -110,7 +110,7 @@
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button1.Location = new System.Drawing.Point(572, 217);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(88, 40);
+            this.button1.Size = new System.Drawing.Size(88, 48);
             this.button1.TabIndex = 7;
             this.button1.Text = "Send";
             this.button1.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -120,7 +120,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(809, 364);
+            this.ClientSize = new System.Drawing.Size(809, 351);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBox1);
