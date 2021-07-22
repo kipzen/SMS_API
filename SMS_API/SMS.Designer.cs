@@ -1,6 +1,6 @@
 ﻿namespace SMS_API
 {
-    partial class home
+    partial class SMS
     {
         /// <summary>
         /// Required designer variable.

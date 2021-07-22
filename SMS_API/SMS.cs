@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace SMS_API
 {
-    public partial class home : Form
+    public partial class SMS : Form
     {
-        public home()
+        public SMS()
         {
             InitializeComponent();
         }
